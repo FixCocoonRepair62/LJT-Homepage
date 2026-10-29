@@ -23,9 +23,9 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "First-year PhD Candidate at HKUST NLP Group. Researching LLM reasoning, truthfulness, and hallucination in vision-language models."
-  location         : "Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  bio              : "First-year PhD candidate at HKUST NLP Group."
+  location         :
+  employer         :
   uri              :
   email            : "jliugi@connect.ust.hk"
 
