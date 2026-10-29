@@ -44,18 +44,14 @@ My research lies at the intersection of **Natural Language Processing** and **Ma
 
 ## 📄 Publications
 
-{% assign sorted_pubs = site.publications | sort: "date" | reverse %}
-{% for post in sorted_pubs %}
-  <div style="margin-bottom: 1.2em;">
-    <strong>{{ post.title }}</strong><br>
-    <small>
-      {% if post.authors %}{{ post.authors }}. {% endif %}
-      {% if post.venue %}<em>{{ post.venue }}</em>{% endif %}
-      {% if post.date %}({{ post.date | date: "%Y" }}){% endif %}
-    </small><br>
-    {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
-  </div>
-{% endfor %}
+My publications are also recorded on the dedicated [Publications](/publications/) page. Selected work includes:
+
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
 
 ---
 
