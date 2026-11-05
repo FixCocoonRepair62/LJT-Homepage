@@ -45,6 +45,10 @@ analytics:
   google:
     tracking_id          :
 
+# Social sharing
+twitter:
+  username               : "junteng88716710"
+
 # Reading files
 include:
   - .htaccess
