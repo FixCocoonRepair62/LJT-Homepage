@@ -57,5 +57,5 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised 
 
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - GitHub: [Vicent0205](https://github.com/Vicent0205)
-- Google Scholar: [profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- Google Scholar: [profile](https://scholar.google.com/citations?user=tbK9jl4AAAAJ)
 - X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
